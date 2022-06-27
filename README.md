@@ -112,5 +112,5 @@ Luego de realizados estos pasos nos dirigimos a GitHub para realizar la correcta
 1)	En GitHub nos encontraremos con un cartel que nos indica el nombre de nuestra rama (en la que estuvimos trabajando), avisándonos de que se subió código recientemente, brindándonos un botón de color verde que nos dice **“Compare & pull request”** ó “Comparar y solicitar extracción”.
 2)	Al presionar este botón **“Compare & pull request”** ó “Comparar y solicitar extracción” nos muestra las opciones de la siguiente pantalla, donde nos deja proporcionarle un título y una descripción a la fusión de los cambios. Luego de realizadas estas acciones presionamos en el botón **“Create pull request”** ó “Crear solicitud de Extracción”.
 3)	Luego redirecciona a la siguiente pantalla proporcionando la información de la fusión de los cambios y que la rama no cuenta con conflictos con la rama Base, y presionamos el botón **“Merge pull request”** o “Combinar solicitud de extracción”.
-4)	Por último, presionamos el botón **“Confirm merge”** o “Confirmar fusión”.
+4)	Por último, presionamos el botón **“Confirm merge”** o “Confirmar fusión”. 
 
