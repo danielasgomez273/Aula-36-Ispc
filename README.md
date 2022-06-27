@@ -56,5 +56,28 @@ L@s estudiantes, identifican y hacen el CÓMO.
 ### Scrum Master o Facilitador
 Será uno de los integrantes del grupo (No es un líder, ya que son equipos auto-organizados con un facilitador que les ayuda a pensar a todos juntos para obtener un resultado mejor)
 
+### sentencias de Git para trabajar en VSC. #15
+
+## Clonar el repositorio con Visual Studio Code
+
+Vamos al menú **“view”** seleccionamos **“command palette”**.  
+
+En ese punto buscamos **“git: Clone”**. 
+
+La herramienta nos pedirá la ruta y ahí es donde tenemos que pegar la URL del repositorio que hemos creado en el punto anterior en Github
+
+## Hacer Push o Pull de los cambios ##
+
+Para hacer push de los cambios o pull para copiar los datos de servidor podemos hacerlo de dos maneras:
+
+Podemos pulsar en la parte derecha de la barra de git (icono tres puntos) y elegir la opción **push** o **pull**.
+
+Podemos pulsar en la parte inferior sobre **sincronizar** (en este caso haríamos push y pull).
+
+## Ver los cambios en Github ##
+
+En GitHub dale a **“Settings / Source** y selecciona **“Master Branch”**.
+
+**Visualiza tu web**. 
 
 
