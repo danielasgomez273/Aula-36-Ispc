@@ -45,5 +45,16 @@ La retrospectiva ocurre al final del Sprint, justo después del Sprint Review.El
 ### 5ta "Sprint Grooming o Refinement":
 El refinamiento del Product Backlog es una práctica recomendada para asegurar que éste siempre esté preparado. Esta ceremonia sigue un patrón similar al resto y tiene una agenda fija específica en cada Sprint. Los participantes de esta reunión son todo el equipo Scrum, así como cualquier recurso adicional que considere necesario el PO y que pueda contribuir a aclarar el requerimiento. Es necesario, por tanto, que antes de la reunión todos conozcan los requerimientos o historias de usuario que van a ser tratados en la misma y sólo asistan aquellos cuya presencia sea estrictamente relevante.
 
+## Roles en Scrum 
+
+### Product Owner
+Es responsable    de definir y priorizar temas y objetivos con criterios de aceptación, el QUÉ.
+
+### Scrum Team o Equipo
+L@s estudiantes, identifican y hacen el CÓMO.
+
+### Scrum Master o Facilitador
+Será uno de los integrantes del grupo (No es un líder, ya que son equipos auto-organizados con un facilitador que les ayuda a pensar a todos juntos para obtener un resultado mejor)
+
 
 
