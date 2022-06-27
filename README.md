@@ -56,7 +56,7 @@ L@s estudiantes, identifican y hacen el CÓMO.
 ### Scrum Master o Facilitador
 Será uno de los integrantes del grupo (No es un líder, ya que son equipos auto-organizados con un facilitador que les ayuda a pensar a todos juntos para obtener un resultado mejor)
 
-### sentencias de Git para trabajar en VSC. #15
+### Sentencias de Git para trabajar en VSC. #15
 
 ## Clonar el repositorio con Visual Studio Code
 
