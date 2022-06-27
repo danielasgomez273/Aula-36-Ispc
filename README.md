@@ -157,3 +157,31 @@ Redirecciona a la siguiente pantalla proporcionando la información de la fusió
 12) Presionamos el botón que dice **“Confirm merge”** o **“Confirmar fusión”**
 
 Luego de realizados estos pasos nos mostrará un mensaje de fusión correcta o algo por el estilo.
+
+## Instructivo paso a paso de Git y Github ##
+### Como clonar un repositorio ###
+1)	En nuestro disco creamos una carpeta nueva, o bien abrimos una donde colocaremos nuestro proyecto. 
+2)	 Dentro de la carpeta hacer click derecho y seleccionar **GIT BASH HERE** (que abre la consola de git)
+3)	Nos dirigimos a nuestro repositorio en GitHub en la pestaña de **“Code”** o **“Código”**, luego verificamos que estemos parados sobre la **“rama”** o **“branch”**, **“main”** o **“principal”**, y presionamos sobre el botón verde que dice **“Code”** o **“Código”**. Luego copiamos la dirección marcada que es por protocolo **HTTPS**.
+4)	Dentro de la consola tipear git clone y pegar la direccion copiada en el punto anterior, y damos enter.
+5)	 Veremos que dentro de la carpeta del punto 1, se nos creo otra carpeta con el nombre del proyecto.
+
+### Como crear una rama ###
+1)	Volvemos a la consola y tipeamos **cd + “nombre_del_proyecto”** para posicionarnos dentro del mismo (o desde el explorador, abrimos la carpeta "nombre_del_proyecto", damos click derecho y seleccionamos **GIT BASH HERE**.)
+2)	Tipeamos el comando **git branch "nombre_de_la_rama"** (el nombre que quieran, en mi caso usé desarrolladorMaxi), y damos Enter. Veremos en la consola que seguimos en la rama main o master.
+3)	Para entrar a nuestra rama: escribimos el comando **git checkout "nombre_de_la_rama"** y damos enter.
+Luego de haber realizado estos pasos ya podemos empezar a trabajar sobre nuestro “espacio de trabajo” o “branch” o “rama” como más les guste llamarlo.
+
+### Como subir codigo a Github mediante Git ###
+1)	Abrir la consola de git en la carpeta en la cual se clonaron el proyecto, donde veremos que se encuentran las carpetas .git y .github.
+2)	Dentro de la consola tipeamos el comando **git status** para poder ver los cambios que tenemos en nuestro espacio o rama de trabajo. Nos mostrará en rojo los archivos que hayamos modificado.
+3)	Para agregar estos archivos al commit para luego subirlos debemos ingresar el comando **git add + “nombre_de_archivo”** (si solo queremos subir los cambios de un archivo especifico), o el comando **git add .** (si queremos subir todos los cambios realizados.)
+4)	Una vez realizado el paso anterior, tipeamos el comando **git status** y veremos que el/los archivo/s subidos se encuentran en color verde.
+5)	Luego debemos ingresar el comando **git commit –m “aquí agregamos un mensaje descriptivo de lo que estamos por subir al repositorio”** (para identificar los cambios a subir)
+6)	Ahora vamos a ingresar el comando **git pull origin main**, para bajarnos o tener al día todos los cambios que estén en la rama principal del repositorio remoto (para no perder ningún cambio que hayan realizado los demás participantes del grupo en el repositorio)
+7)	Luego de habernos bajado todos los cambios y de que se hayan “fusionado” o “mergeado” automáticamente se deben de subir nuestros cambios locales al repositorio remoto con el comando **git push** ó para más seguridad especificarle desde donde se quieren subir los cambios con el comando **git push origin + “nombre_de_la_rama”**.
+Luego de realizados estos pasos nos dirigimos a GitHub para realizar la correcta fusión desde “nuestra rama” ó “espacio de trabajo” hacia la rama “principal” ó “main”.
+1)	En GitHub nos encontraremos con un cartel que nos indica el nombre de nuestra rama (en la que estuvimos trabajando), avisándonos de que se subió código recientemente, brindándonos un botón de color verde que nos dice **“Compare & pull request”** ó “Comparar y solicitar extracción”.
+2)	Al presionar este botón **“Compare & pull request”** ó “Comparar y solicitar extracción” nos muestra las opciones de la siguiente pantalla, donde nos deja proporcionarle un título y una descripción a la fusión de los cambios. Luego de realizadas estas acciones presionamos en el botón **“Create pull request”** ó “Crear solicitud de Extracción”.
+3)	Luego redirecciona a la siguiente pantalla proporcionando la información de la fusión de los cambios y que la rama no cuenta con conflictos con la rama Base, y presionamos el botón **“Merge pull request”** o “Combinar solicitud de extracción”.
+4)	Por último, presionamos el botón **“Confirm merge”** o “Confirmar fusión”. 
