@@ -4,6 +4,7 @@
 
 - Campos, Gabriel O. 
 - Carballeira, Angel 
+- Chávez, Laura
 - Cielo, Marco 
 - Covaro, Maximiliano  
 - Del Hugo, Martin 
