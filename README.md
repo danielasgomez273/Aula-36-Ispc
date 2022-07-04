@@ -1,3 +1,4 @@
+![Encabezado](assets/images/encabezado-readme.png)
 #  Grupo 1 - Aula 36 
 
 :muscle: **Integrantes:** 
