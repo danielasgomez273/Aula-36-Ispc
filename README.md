@@ -1,6 +1,6 @@
 #  Grupo 1 - Aula 36 
 
-**Integrantes:** :muscle:
+:muscle: **Integrantes:** 
 - Carballeira, Angel 
 - Covaro, Maximiliano  
 - Del Hugo, Martin 
@@ -11,9 +11,9 @@
 - Herrera, Daniel H.
 
 # Resúmen de Metodologías Ágiles y Gestión de Proyectos 
-## Libro 1. Scrum :dart: 
+:dart: ## Libro 1. Scrum  
 
-## Ceremonias scrum [^1].
+## Ceremonias scrum[^1].
 
 ### 1ra "Sprint Planning":
 .    Es un reunion que se realiza al **comienzo** de cada Sprint, sirve para inspeccionar el Product Backlog y que el equipo de 
@@ -42,7 +42,7 @@ La retrospectiva ocurre al final del Sprint, justo después del Sprint Review.El
 El refinamiento del Product Backlog es una práctica recomendada para asegurar que éste siempre esté preparado. Esta ceremonia sigue un patrón similar al resto y tiene una agenda fija específica en cada Sprint. Los participantes de esta reunión son todo el equipo Scrum, así como cualquier recurso adicional que considere necesario el PO y que pueda contribuir a aclarar el requerimiento. Es necesario, por tanto, que antes de la reunión todos conozcan los requerimientos o historias de usuario que van a ser tratados en la misma y sólo asistan aquellos cuya presencia sea estrictamente relevante.
 
 ______________________________________________________________________________________________________
-## Roles en Scrum [^2].
+## Roles en Scrum[^2].
 
 ### Product Owner
 Es responsable    de definir y priorizar temas y objetivos con criterios de aceptación, el QUÉ.
@@ -53,7 +53,7 @@ L@s estudiantes, identifican y hacen el CÓMO.
 ### Scrum Master o Facilitador
 Será uno de los integrantes del grupo (No es un líder, ya que son equipos auto-organizados con un facilitador que les ayuda a pensar a todos juntos para obtener un resultado mejor)
 ______________________________________________________________________________________________________
-## Artefactos Scrum [^1].
+## Artefactos Scrum[^1].
 
 Son aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
 
@@ -94,7 +94,7 @@ El marco de trabajo Scrum destaca los 3 elementos expuestos previamente como imp
 
 **Burndown Chart:** El Burndown Chart es un gráfico de trabajo pendiente a lo largo del tiempo que muestra la velocidad a la que se están completando los objetivos, requisitos, o historias de usuarios. Permite extrapolar si el equipo podrá completar el trabajo en el tiempo estimado.
 
-## Libro 2. GitHub - VSC :dart: 
+:dart: ## Libro 2. GitHub - VSC  
 
 ## Sentencias de Git para trabajar en VSC
 
@@ -120,7 +120,7 @@ En GitHub dale a **“Settings / Source** y selecciona **“Master Branch”**.
 
 **Visualiza tu web**. 
 
-## Libro 4. Git :dart: 
+:dart: ## Libro 4. Git  
 
 ## Paso a paso para trabajar en Git ###
 
@@ -153,6 +153,6 @@ Luego de realizados estos pasos nos dirigimos a GitHub para realizar la correcta
 
 # Referencias
 
-[^1]. Extraído de [Deloitte](https://www2.deloitte.com/es/es/pages/technology/articles/ceremonias-scrum.html)
+[^1]: Extraído de [Deloitte](https://www2.deloitte.com/es/es/pages/technology/articles/ceremonias-scrum.html)
 
-[^2]. Extraído de la Guía de Metodologías Ágiles y Gestión de Proyectos 
+[^2]: Extraído de la Guía de Metodologías Ágiles y Gestión de Proyectos 
