@@ -10,8 +10,8 @@
 - Gómez, Daniela S.
 - Herrera, Daniel H.
 
-# Resúmen de Metodologías Ágiles y Gestión de Proyectos 
-:dart: ## Libro 1. Scrum  
+# Resumen de Metodologías Ágiles y Gestión de Proyectos 
+## Libro 1. Scrum  
 
 ## Ceremonias scrum[^1].
 
@@ -93,8 +93,9 @@ El marco de trabajo Scrum destaca los 3 elementos expuestos previamente como imp
 **Definition of Ready (DoR):** El DoR es un documento que define cuándo un requerimiento (historia de usuario o similar) se considera listo para que el equipo de desarrollo pueda entenderlo, valorarlo e incluirlo en un Sprint Planning con idea de acometerlo en un Sprint.
 
 **Burndown Chart:** El Burndown Chart es un gráfico de trabajo pendiente a lo largo del tiempo que muestra la velocidad a la que se están completando los objetivos, requisitos, o historias de usuarios. Permite extrapolar si el equipo podrá completar el trabajo en el tiempo estimado.
+______________________________________________________________________________________________________
 
-:dart: ## Libro 2. GitHub - VSC  
+## Libro 2. GitHub - VSC  
 
 ## Sentencias de Git para trabajar en VSC
 
@@ -119,8 +120,9 @@ Podemos pulsar en la parte inferior sobre **sincronizar** (en este caso haríamo
 En GitHub dale a **“Settings / Source** y selecciona **“Master Branch”**.
 
 **Visualiza tu web**. 
+______________________________________________________________________________________________________
 
-:dart: ## Libro 4. Git  
+## Libro 4. Git  
 
 ## Paso a paso para trabajar en Git ###
 
@@ -150,6 +152,7 @@ Luego de realizados estos pasos nos dirigimos a GitHub para realizar la correcta
 2)	Al presionar este botón **“Compare & pull request”** ó “Comparar y solicitar extracción” nos muestra las opciones de la siguiente pantalla, donde nos deja proporcionarle un título y una descripción a la fusión de los cambios. Luego de realizadas estas acciones presionamos en el botón **“Create pull request”** ó “Crear solicitud de Extracción”.
 3)	Luego redirecciona a la siguiente pantalla proporcionando la información de la fusión de los cambios y que la rama no cuenta con conflictos con la rama Base, y presionamos el botón **“Merge pull request”** o “Combinar solicitud de extracción”.
 4)	Por último, presionamos el botón **“Confirm merge”** o “Confirmar fusión”. 
+______________________________________________________________________________________________________
 
 # Referencias
 
