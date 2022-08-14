@@ -10,7 +10,8 @@ CREATE TABLE Dueno (
     Telefono  INT ,
     Direccion VARCHAR(50) 
 );
---- Realice la consulta correspondiente para crear la tabla Perro, teniendo en cuenta sus claves foráneas y primarias. Las claves foraneas estan definidas mas abajo ya que si las creamos ahora va a haber error al no tener creadas todas las tablas.
+--- Realice la consulta correspondiente para crear la tabla Perro, teniendo en cuenta sus claves foráneas y primarias.
+--- Las claves foraneas estan definidas mas abajo ya que si las creamos ahora va a haber error al no tener creadas todas las tablas.
 CREATE TABLE Perro (
     ID_Perro INT PRIMARY KEY,
     Nombre_Perro  VARCHAR(25),
