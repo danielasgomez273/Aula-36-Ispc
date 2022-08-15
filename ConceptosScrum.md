@@ -1,16 +1,3 @@
-![Encabezado](assets/images/encabezado-readme.png)
-#  Grupo 1 - Aula 36 
-
-:muscle: **Integrantes:** 
-- Carballeira, Angel 
-- Covaro, Maximiliano  
-- Del Hugo, Martin 
-- Demarchi, Romina C.
-- Durigo, Agustina 
-- Gavier, Flavia  
-- Gómez, Daniela S.
-- Herrera, Daniel H.
-
 # Resumen de Metodologías Ágiles y Gestión de Proyectos 
 ## Libro 1. Scrum  
 
